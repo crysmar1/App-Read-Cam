@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^5.0.0",
     "expo": "~50.0.14",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-permissions": "^4.1.5",
+    "react-native-qrcode-scanner": "^1.5.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
